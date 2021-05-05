@@ -18,5 +18,8 @@ Congas; Afro-Cuban Cojunto,
 Frame drums,
 Kogili (Lobi Xylophone of Northern Ghana),
 Tabla, and South Indian Kanjira with numeric theory.
+
+## Lessons on drum head work and repairs are also available.
+
+![Workshops](/images/illustrations/repair.jpg)
 ‍
-Lessons on drum head work and repairs are also available.
