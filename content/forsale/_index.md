@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: false
 
 # Drums of the Dagomba
 
-The performers of Dagomba music are lunsi, members of a hereditary clan of 
+The performers of Dagomba music are called Lunsi, members of a hereditary clan of 
 drummers. Lunsi fulfill many vital duties in the life of the Dagomba - genealogist, 
 counselor to royalty, cultural expert, etc. There are two main drums played by the 
 Lunsi: the Lunga (talking drum) and the Gungon (bass drum).
