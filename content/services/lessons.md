@@ -6,6 +6,8 @@ featured: true
 weight: 6
 ---
 
+![Workshops](/images/workshops/4.jpg)
+
 ## Online Private Lessons
 Nico offers online private lessons in the following:
 ‍
