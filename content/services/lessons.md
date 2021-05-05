@@ -16,7 +16,7 @@ Dagomba drum and dance from Ghana (Talking drum and Gungon), Djembe and Dunun (f
 ‍
 Congas; Afro-Cuban Cojunto,
 Frame drums,
-Kogili (LobiXylophone of Northern Ghana),
+Kogili (Lobi Xylophone of Northern Ghana),
 Tabla, and South Indian Kanjira with numeric theory.
 ‍
 Lessons on drum head work and repairs are also available.
