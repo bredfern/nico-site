@@ -46,7 +46,7 @@ theme = "hugo-serif-theme2"
       weight = 2
 
   [[menu.main]]
-      name = "About Me"
+      name = "About Nico"
       url = "/about/"
       weight = 3
 

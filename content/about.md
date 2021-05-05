@@ -2,11 +2,11 @@
 title: 'About Nico'
 date: 2018-02-22T17:01:34+07:00
 ---
-{{< youtube N88ujU89yAg >}}
+![Nico tablas](/images/about/about3.jpg)
 
 Nico Spezzacatena is a multi-talented percussionist, performer, and educator from Hoboken, New Jersey. He received his BFA and MFA in world music performance from the California Institute of the Arts. 
 
-![Nico tablas](/images/about/about3.jpg)
+{{< youtube N88ujU89yAg >}}<br>
 
 Nico has been studying and researching traditional music and dance for over 25 years.In 1997, he founded Guineafia – a West African Drum and Dance Ensemble. In 1999, Nico traveled to Ghana, West Africa to research Ewe, Dagomba, and Asante culture, music, and dance. As a result, 3 documentaries were released. He has studied Drum and Dance under the Ladzekpo family, the Yevutsey family, Promise Dogbatsey, Sulley Imoro, the Lawluvi family (choreography and dance), Seth and Asari of the University of Legon, Kakraba Lobi, Doug Floyd, Mor Thiam, Sylla Diallo, Sidiki Dembele, Mamady Keita, Shodunke Ayanlekan and Ayandokun Ayanwale.
 
@@ -14,7 +14,7 @@ Nico has been studying and researching traditional music and dance for over 25 y
 
 Nico is a tabla disciple of Swapan Chaudhuri, and has also studied South Indian Karnatic music with Poovalur Srinivasan and S. Sankar. He has studied the Balinese and Javanese gamelans, and in 2010 traveled to Bali to further research Jegog, and gong making, among other things. 
 
-{{< youtube S-XpN_ROHsE >}}
+{{< youtube S-XpN_ROHsE >}}<br>
 
 Afro-Cuban and Haitian drumming has been studied, as well as an array of frame drums with John Bergamo. Nico has been involved in Hawaiian culture through his colleague’s at the Maui Theatre.
 
