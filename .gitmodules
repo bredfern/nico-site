@@ -4,3 +4,6 @@
 [submodule "themes/hugo-serif-theme2"]
 	path = themes/hugo-serif-theme2
 	url = https://github.com/zerostaticthemes/hugo-serif-theme.git
+[submodule "themes/hugo-nico-theme"]
+	path = themes/hugo-nico-theme
+	url = https://github.com/bredfern/hugo-nico-theme.git

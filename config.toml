@@ -1,7 +1,7 @@
 baseURL = "https://drumnico.pages.dev/"
 languageCode = "en-us"
 title = "Drum Nico - The music of Percussionist Nico Spezzacatena"
-theme = "hugo-serif-theme2"
+theme = "hugo-nico-theme"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
