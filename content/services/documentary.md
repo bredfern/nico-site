@@ -11,11 +11,11 @@ Nico is a field researcher and videographer. In 1999, Nico was in Ghana for 6+mo
 
 {{< youtube x3DL65d_VoI >}}<br>
 
-Three documentaries were released. One on the last Damba before the Ya-Naa feud of 2000, and one on the funeral of Kwamivi Tsegah, a highly respected and important figure in Anyako history, and one on the 30 year commemorative celebration of the passing of Husunu Adonu Afadi Ladzekpo, one of the most famous and respected drummers, dancers, and composers of all of Eweland.
+Three documentaries were released. One on the last Damba before the Ya-Naa feud of 2000, and one on the funeral of Kwamivi Tsegah, a highly respected and important figure in Anyako history, and one on the 30 year commemorative celebration of the passing of Husunu Adonu Afadi Ladzekpo, one of the most famous and respected drummers, dancers, and composers of all of Eweland. He collected over 100 hours of video footage and over 800 hours of audio field recordings during this trip.
 
 ![Documentary](/images/documentary/metu.jpg)
 
-He collected over 100 hours of video footage and over 800 hours of audio field recordings during this trip.In 2010, Nico went to Bali to study and research Jegog, the not-so-famous Bamboo xylophone ensemble.
+In 2010, Nico went to Bali to study and research Jegog, the not-so-famous Bamboo xylophone ensemble.
 
 ![Documentary](/images/documentary/genderbars.jpg)
 
