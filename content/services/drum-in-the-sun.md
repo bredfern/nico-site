@@ -8,11 +8,11 @@ weight: 3
 
 ![Drum In the Sun](/images/druminthesun/1.jpg)
 
-Drum in the Sun focuses on developing listening skills, multiple percussive techniques, motor skills, improvisation and soloing, and simply having a good time!‍
+Play exotic instruments from all over the world in a fun and educational environment!!! Drum In The Sun is the new exciting and educational activity on beautiful Maui led by global percussionist Nico!
 
 ![Drum In the Sun](/images/druminthesun/2.jpg)
 
-Play exotic instruments from all over the world in a fun and educational environment!!! Drum In The Sun is the new exciting and educational activity on beautiful Maui led by global percussionist Nico!
+Drum in the Sun focuses on developing listening skills, multiple percussive techniques, motor skills, improvisation and soloing, and simply having a good time!‍
 
 ![Drum In the Sun](/images/druminthesun/3.jpg)
 
