@@ -6,6 +6,7 @@ image: 'images/forsale/gungon.jpg'
 jobtitle: 'Drum'
 weight: 3
 ---
+![The Gungon Drum](/images/forsale/gungon.jpg)
 
 The Gungon is a medium sized cylindrical bass drum used to accompany the Lunga. It is 
 a double headed drum with snares on each head. It produces a rich bass tone when 

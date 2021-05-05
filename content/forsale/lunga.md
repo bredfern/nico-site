@@ -8,6 +8,8 @@ linkedinurl: ""
 weight: 7
 ---
 
+![The Lunga Drum](/images/forsale/lunga.jpg)
+
 The lunga is a double-headed hourglass shaped tension drum carved from the Shea 
 Butter tree. By squeezing and pulling on the leather cords, the player can change the 
 tension and thus the pitch of the drum. Pitches can vary over an octave and many 

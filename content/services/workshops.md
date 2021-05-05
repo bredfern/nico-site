@@ -14,16 +14,19 @@ all ages and backgrounds.
 
 ![Workshops](/images/workshops/1.jpg)
 
-
 ## African Song
 
 A class that focuses on Ewe, Fo, Egun, and Ga-Adangbe songs from Ghana, West Africa. Students will learn both lead and chorus parts.
+
+![Workshops](/images/workshops/8.jpg)
 
 English translations, along with the meaning and historical information are also given to the students.
 
 ![Workshops](/images/workshops/4.jpg)
 
 This class will help with pronunciation of the languages as well as fortify what they are learning in the West African Ensemble.
+
+![Workshops](/images/workshops/7.jpg)
 
 Students will clap, walk and dance in time, and also play bells and rattles while they sing.
 
@@ -32,6 +35,8 @@ Students will clap, walk and dance in time, and also play bells and rattles whil
 ## Corporate Team Building
 
 Nico offers team building workshops though rhythm…This is a great way to build communication and camaraderie within the team. 
+
+![Workshops](/images/workshops/6.jpg)
 
 They will have to use listening skills to communicate with each other through percussive means. 
 
