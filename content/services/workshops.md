@@ -21,11 +21,13 @@ A class that focuses on Ewe, Fo, Egun, and Ga-Adangbe songs from Ghana, West Afr
 
 English translations, along with the meaning and historical information are also given to the students.
 
+![Workshops](/images/workshops/4.jpg)
+
 This class will help with pronunciation of the languages as well as fortify what they are learning in the West African Ensemble.
 
 Students will clap, walk and dance in time, and also play bells and rattles while they sing.
 
-![Workshops](/images/workshops/3.jpg)
+![Workshops](/images/workshops/2.jpg)
 
 ## Corporate Team Building
 
@@ -33,6 +35,8 @@ Nico offers team building workshops though rhythm…This is a great way to build
 
 They will have to use listening skills to communicate with each other through percussive means. 
 
+![Workshops](/images/workshops/5.jpg)
+
 These workshops will boost confidence, increase productivity, create new bonds, and most importantly be fun and interactive.
 
-![Workshops](/images/workshops/4.jpg)
+![Workshops](/images/workshops/3.jpg)
