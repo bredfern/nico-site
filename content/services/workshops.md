@@ -9,13 +9,13 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-Nico is available to give workshops for schools, after school programs, and corporate events. 
+![Workshops](/images/workshops/8.jpg)
+
+Nico is available to present workshops for universities, college, schools, after school programs, and corporate events. 
 Workshops in West African drum and dance (Ewe, Dagomba, and Manding), Afro-Cuban 
 drumming, North and South Indian rhythmic principles, and Kecak (Balinese Monkey Chant) 
 are currently offered. These workshops are fun and educational and essential for students of 
 all ages and backgrounds.
-
-![Workshops](/images/workshops/8.jpg)
 
 ## African Song
 
