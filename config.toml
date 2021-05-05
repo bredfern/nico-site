@@ -21,7 +21,7 @@ theme = "hugo-serif-theme2"
 
   [params.homepage_meta_tags]
     meta_description = "Nico Spezzacatena is a multi-talented percussionist, performer, and educator from Hoboken, New Jersey. He received his BFA and MFA in world music performance from the California Institute of the Arts. Nico has been studying and researching traditional music and dance for over 25 years.In 1997, he founded Guineafia – a West African Drum and Dance Ensemble."
-    meta_og_title = "Hugo Serif Theme"
+    meta_og_title = "Drum Nico"
     meta_og_type = "website"
     meta_og_url = "https://drumnico.pages.dev/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
@@ -36,17 +36,17 @@ theme = "hugo-serif-theme2"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "Musical Services"
     url = "/services/"
       weight = 1
 
   [[menu.main]]
-      name = "For Sale"
+      name = "Drums For Sale"
       url = "/forsale/"
       weight = 2
 
   [[menu.main]]
-      name = "About"
+      name = "About Me"
       url = "/about/"
       weight = 3
 

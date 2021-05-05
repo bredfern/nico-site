@@ -5,7 +5,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Drums of the Dagomba for Sale
+# Drums of the Dagomba
 
 The performers of Dagomba music are lunsi, members of a hereditary clan of 
 drummers. Lunsi fulfill many vital duties in the life of the Dagomba - genealogist, 

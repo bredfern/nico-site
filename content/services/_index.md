@@ -1,6 +1,6 @@
 ---
 title: 'Services'
-intro_image: "images/workshops/3.jpg"
+intro_image: "images/illustrations/nico.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

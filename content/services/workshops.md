@@ -4,6 +4,9 @@ date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
 weight: 1
+intro_image: "images/about/about3.jpg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 Nico is available to give workshops for schools, after school programs, and corporate events. 
