@@ -4,7 +4,6 @@ intro_image: "images/forsale/intro.JPG"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
-
 # Drums of the Dagomba
 
 The performers of Dagomba music are called Lunsi, members of a hereditary clan of 
