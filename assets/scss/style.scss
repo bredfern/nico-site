@@ -60,7 +60,7 @@ $sub-footer-text-color: $white;
 body {
   font-size: 16px;
   line-height: 1.2;
-  background-color: lightgray;
+  background-color: rgb(226, 222, 222);
   font-family: $font-family-base;
   @include media-breakpoint-up(md) {
     font-size: 16px;
