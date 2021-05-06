@@ -6,7 +6,7 @@ featured: true
 weight: 6
 ---
 
-![Workshops](/images/workshops/4.jpg)
+![Lessons](/images/workshops/4.jpg)
 
 ## Online Private Lessons
 Nico offers online private lessons in the following:
@@ -20,6 +20,9 @@ Kogili (Lobi Xylophone of Northern Ghana),
 Tabla, and South Indian Kanjira with numeric theory.
 
 ## Lessons on drum head work and repairs are also available.
+Want to learn drum repair or need to learn some skills to maintain your own gear?
 
-![Workshops](/images/illustrations/repair.jpg)
+![Repair](/images/illustrations/repair2.jpg)
+
+![Repair](/images/illustrations/repair.jpg)
 ‍
