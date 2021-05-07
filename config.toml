@@ -1,6 +1,6 @@
 baseURL = "https://drumnico.pages.dev/"
 languageCode = "en-us"
-title = "Drum Nico - The music of Percussionist Nico Spezzacatena"
+title = "Drum in the Sun with Nico - The music of Percussionist Nico Spezzacatena"
 theme = "hugo-nico-theme"
 
 [params]
