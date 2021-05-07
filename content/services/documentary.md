@@ -5,7 +5,8 @@ featured: true
 draft: false
 weight: 5
 ---
-![Documentary](/images/documentary/mekepung.jpg)
+
+{{< youtube x3DL65d_VoI >}}<br>
 
 Nico is a field researcher and videographer. In 1999, Nico was in Ghana for 6+months researching Ewe, Dagomba, and Asante music and culture. 
 
@@ -33,4 +34,4 @@ In addition, he sought out different gong makers and blacksmiths to research the
 
 This excursion resulted in over 40 hrs of video footage and 60 hours of audio recordings.
 
-{{< youtube x3DL65d_VoI >}}<br>
+![Documentary](/images/documentary/mekepung.jpg)
