@@ -3,7 +3,7 @@ $primary: #520000;
 $secondary: #9b0000;
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #bbbbbb;
+$white-offset: #c57979;
 $steel: #5C5A5A;
 
 // Links
@@ -26,6 +26,7 @@ $sub-footer-text-color: $white;
 @import 'bootstrap-variables';
 @import 'bootstrap/bootstrap-reboot';
 @import 'bootstrap/bootstrap-grid';
+
 // @import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
 
 
