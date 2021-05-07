@@ -2,7 +2,7 @@
 title: 'About Nico'
 date: 2018-02-22T17:01:34+07:00
 ---
-![Nico tablas](images/illustrations/intro.jpg)
+![Nico tablas](/images/illustrations/intro.jpg)
 
 Nico Spezzacatena is a multi-talented percussionist, performer, and educator from Hoboken, New Jersey. He received his BFA and MFA in world music performance from the California Institute of the Arts. 
 
