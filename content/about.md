@@ -8,7 +8,9 @@ Nico Spezzacatena is a multi-talented percussionist, performer, and educator fro
 
 {{< youtube N88ujU89yAg >}}<br>
 
-Nico has been studying and researching traditional music and dance for over 25 years.In 1997, he founded Guineafia – a West African Drum and Dance Ensemble. In 1999, Nico traveled to Ghana, West Africa to research Ewe, Dagomba, and Asante culture, music, and dance. As a result, 3 documentaries were released. He has studied Drum and Dance under the Ladzekpo family, the Yevutsey family, Promise Dogbatsey, Sulley Imoro, the Lawluvi family (choreography and dance), Seth and Asari of the University of Legon, Kakraba Lobi, Doug Floyd, Mor Thiam, Sylla Diallo, Sidiki Dembele, Mamady Keita, Shodunke Ayanlekan and Ayandokun Ayanwale.
+Nico has been studying and researching traditional music and dance for over 25 years.
+
+In 1997, he founded Guineafia – a West African Drum and Dance Ensemble. In 1999, Nico traveled to Ghana, West Africa to research Ewe, Dagomba, and Asante culture, music, and dance. As a result, 3 documentaries were released. He has studied Drum and Dance under the Ladzekpo family, the Yevutsey family, Promise Dogbatsey, Sulley Imoro, the Lawluvi family (choreography and dance), Seth and Asari of the University of Legon, Kakraba Lobi, Doug Floyd, Mor Thiam, Sylla Diallo, Sidiki Dembele, Mamady Keita, Shodunke Ayanlekan and Ayandokun Ayanwale.
 
 ![Nico tablas](/images/about/about2.jpg)
 

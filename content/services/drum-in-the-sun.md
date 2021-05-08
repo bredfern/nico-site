@@ -16,7 +16,7 @@ Drum in the Sun focuses on developing listening skills, multiple percussive tech
 
 ![Drum In the Sun](/images/druminthesun/3.jpg)
 
-During these classes, students will begin their journey right here in Maui by exploring the traditional instruments and rhythms of Hawaii and Tahiti. From there, we will traverse the world of rhythm through rhythm!
+During these classes, students will begin their journey right here in Maui by exploring the traditional instruments and rhythms of Hawaii and Tahiti. From there, we will traverse the world of rhythm through Africa, Latin America, India and more!!!!!!
 
 ![Drum In the Sun](/images/druminthesun/4.jpg)
 
