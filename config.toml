@@ -1,4 +1,4 @@
-baseURL = "https://drumnico.pages.dev/"
+baseURL = "https://drumnico.com/"
 languageCode = "en-us"
 title = "Drum in the Sun with Nico - The music of Percussionist Nico Spezzacatena"
 theme = "hugo-nico-theme"
@@ -23,8 +23,8 @@ theme = "hugo-nico-theme"
     meta_description = "Nico Spezzacatena is a multi-talented percussionist, performer, and educator from Hoboken, New Jersey. He received his BFA and MFA in world music performance from the California Institute of the Arts. Nico has been studying and researching traditional music and dance for over 25 years.In 1997, he founded Guineafia – a West African Drum and Dance Ensemble."
     meta_og_title = "Drum Nico"
     meta_og_type = "website"
-    meta_og_url = "https://drumnico.pages.dev/"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
+    meta_og_url = "https://drumnico.com"
+    meta_og_image = "https://drumnico.com/images/preview.png"
     meta_og_description = "Nico Spezzacatena is a multi-talented percussionist, performer, and educator from Hoboken, New Jersey. He received his BFA and MFA in world music performance from the California Institute of the Arts. Nico has been studying and researching traditional music and dance for over 25 years.In 1997, he founded Guineafia – a West African Drum and Dance Ensemble."
 
   [params.team]
